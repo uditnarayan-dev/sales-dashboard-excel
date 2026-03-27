@@ -19,7 +19,6 @@ This project focuses on analyzing and visualizing sales data using Microsoft Exc
 
 * Microsoft Excel
 * Pivot Tables
-* XLOOKUP
 * Conditional Formatting
 * Charts & Graphs
 
@@ -27,7 +26,7 @@ This project focuses on analyzing and visualizing sales data using Microsoft Exc
 
 ## 📂 Dataset
 
-Source: Superstore Dataset (YouTube Project)
+Source: https://docs.google.com/spreadsheets/d/1L6aBX0uNlzKiJb7JHdkNUile18s9CI4r/edit?gid=1589100670#gid=1589100670
 
 ---
 
@@ -42,15 +41,26 @@ Source: Superstore Dataset (YouTube Project)
 
 ## 📈 Insights
 
-* Sales highest in West region
-* Technology category generated most profit
-* High discounts led to negative profit in some cases
+* The West region contributed the highest overall sales, indicating strong market demand and better regional performance compared to other regions.
+
+* The Technology category generated the highest profit, making it the most valuable segment for business growth.
+
+* High discount levels in certain transactions resulted in negative profits, highlighting the need for better discount control strategies.
+
+* Repeat customers and bulk orders played an important role in driving revenue, suggesting the importance of customer retention strategies.
+
+## 💡 Recommendations
+
+* Reduce excessive discounts on low-margin products to prevent losses
+* Focus more on Technology category to maximize profitability
+* Improve pricing strategy for loss-making sub-categories like Tables
+* Strengthen presence in high-performing regions like West
 
 ---
 
-## 📸 Screenshots
+## 📸 Dashboard Image
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/sales_dashboard.png)
 
 ---
 
@@ -62,4 +72,4 @@ This project demonstrates my ability to clean data, analyze it, and build profes
 
 ## 🔗 Connect with Me
 
-LinkedIn: (paste your link)
+LinkedIn: https://www.linkedin.com/in/udit-narayan-jena04/
